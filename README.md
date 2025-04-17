@@ -3,6 +3,7 @@ Jetson Nano는 확장 헤더(J6) 40개의 핀으로 전원(3.3v, 5v, GND),PWM (�
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/30771849-e8b7-4a97-bacb-ed24cc72023d" width="500" height="500">
+  <strong>40-Pin Header (J6)</strong>
 </p>
 
 
