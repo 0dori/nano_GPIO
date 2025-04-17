@@ -14,7 +14,7 @@ LED는 22번 PIN, GND는 20번 PIN 사용
  3. LED의 -핀을 Jetson Nano의 GPIO GND 핀 20번과 연결
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1963db58-cf10-4d38-976d-783e9d947cc8" width="500" height="500"><br>
+  <a herf="https://github.com/user-attachments/assets/1963db58-cf10-4d38-976d-783e9d947cc8" width="500" height="500"><br>
 </p>
 
 # RGB LED
