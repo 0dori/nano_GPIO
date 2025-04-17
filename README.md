@@ -1,7 +1,7 @@
 # nano_GPIO
 Jetson Nano는 확장 헤더(J6) 40개의 핀으로 전원(3.3v, 5v, GND),PWM (펄스 폭 변조), I2C, SPI, UART 통신 기능이 있음.
 
-![img](https://github.com/user-attachments/assets/30771849-e8b7-4a97-bacb-ed24cc72023d)< width="300" height="300>
+<img src="https://github.com/user-attachments/assets/30771849-e8b7-4a97-bacb-ed24cc72023d" width="300" height="300">
 
 # 단일 LED ON/OFF
 LED는 22번 PIN, GND는 20번 PIN 사용
